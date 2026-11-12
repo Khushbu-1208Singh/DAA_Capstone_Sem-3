@@ -1,0 +1,40 @@
+{
+  "vehicle_capacity": 20,
+  "parcels": [
+    {
+      "id": "P1",
+      "destination": "A",
+      "weight": 5,
+      "priority": 90,
+      "deadline": "12:00"
+    },
+    {
+      "id": "P2",
+      "destination": "B",
+      "weight": 8,
+      "priority": 70,
+      "deadline": "14:00"
+    },
+    {
+      "id": "P3",
+      "destination": "C",
+      "weight": 4,
+      "priority": 85,
+      "deadline": "13:00"
+    },
+    {
+      "id": "P4",
+      "destination": "D",
+      "weight": 10,
+      "priority": 60,
+      "deadline": "16:00"
+    },
+    {
+      "id": "P5",
+      "destination": "E",
+      "weight": 3,
+      "priority": 95,
+      "deadline": "11:00"
+    }
+  ]
+}
